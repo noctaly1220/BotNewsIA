@@ -1,0 +1,72 @@
+# Sources de veille IA
+# type: rss | hackernews | reddit_json | producthunt_placeholder
+
+rss_sources:
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+    category: official
+    weight: 5
+
+  - name: Anthropic
+    url: https://www.anthropic.com/news/rss.xml
+    category: official
+    weight: 5
+
+  - name: Google DeepMind
+    url: https://deepmind.google/discover/blog/rss.xml
+    category: official
+    weight: 5
+
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    category: official
+    weight: 4
+
+  - name: Meta AI
+    url: https://ai.meta.com/blog/rss/
+    category: official
+    weight: 4
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: official_open_source
+    weight: 5
+
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: news
+    weight: 4
+
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    category: news
+    weight: 4
+
+  - name: MIT Technology Review AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    category: analysis
+    weight: 4
+
+reddit_sources:
+  - name: Reddit LocalLLaMA
+    url: https://www.reddit.com/r/LocalLLaMA/top.json?t=day&limit=10
+    category: community
+    weight: 4
+
+  - name: Reddit ChatGPT
+    url: https://www.reddit.com/r/ChatGPT/top.json?t=day&limit=10
+    category: community
+    weight: 3
+
+hackernews:
+  enabled: true
+  query_terms:
+    - AI
+    - OpenAI
+    - Claude
+    - Anthropic
+    - Gemini
+    - Llama
+    - Mistral
+    - agent
+    - model

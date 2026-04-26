@@ -1,0 +1,70 @@
+name: AI Watch Telegram Bot
+
+on:
+  schedule:
+    # GitHub Actions fonctionne en UTC.
+    # Heure d'été France : 05:00 UTC = 07:00 Paris
+    - cron: "0 5 * * *"
+    # Heure d'été France : 16:00 UTC = 18:00 Paris
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Mode du résumé"
+        required: true
+        default: "morning"
+        type: choice
+        options:
+          - morning
+          - evening
+
+jobs:
+  run-ai-watch:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Detect mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ github.event.inputs.mode }}" >> $GITHUB_OUTPUT
+          else
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" = "05" ]; then
+              echo "mode=morning" >> $GITHUB_OUTPUT
+            else
+              echo "mode=evening" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          MAX_ITEMS_MORNING: 7
+          MAX_ITEMS_EVENING: 5
+        run: python main.py --mode "${{ steps.mode.outputs.mode }}"
+
+      - name: Commit seen items history
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add seen_items.json || true
+          git diff --cached --quiet || git commit -m "Update seen items"
+          git push || true
