@@ -48,15 +48,15 @@ rss_sources:
     weight: 4
 
 reddit_sources:
-  - name: Reddit LocalLLaMA
-    url: https://www.reddit.com/r/LocalLLaMA/top.json?t=day&limit=10
-    category: community
-    weight: 4
+ - name: Reddit LocalLLaMA
+  url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day
+  category: community
+  weight: 4
 
-  - name: Reddit ChatGPT
-    url: https://www.reddit.com/r/ChatGPT/top.json?t=day&limit=10
-    category: community
-    weight: 3
+- name: Reddit ChatGPT
+  url: https://www.reddit.com/r/ChatGPT/top/.rss?t=day
+  category: community
+  weight: 3
 
 hackernews:
   enabled: true
