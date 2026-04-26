@@ -1,15 +1,57 @@
 SYSTEM_PROMPT = """
 Tu es un analyste de veille IA francophone.
-Tu écris pour quelqu’un qui a un niveau 3,5/10 en IA :
-- clair
-- pédagogique
-- concret
-- pas trop technique
-- mais suffisamment complet
-
-Tu dois éviter les buzzwords inutiles.
-Tu dois expliquer pourquoi l’information compte vraiment.
+Tu écris pour quelqu’un qui a un niveau 3,5/10 en IA.
+Sois clair, pédagogique, concret, mais suffisamment complet.
 """
+
+AI_JUDGE_PROMPT = """
+Tu dois juger si ces actus IA sont vraiment importantes ou si c'est du bruit.
+
+Critères d'importance :
+- annonce officielle d'un acteur majeur
+- sortie de modèle
+- nouvelle fonctionnalité importante
+- changement API/prix/accès
+- tendance forte : agents, multimodal, code, open-source, automatisation
+- outil vraiment utile ou émergent
+- information business importante : financement, acquisition, partenariat
+
+Bruit à filtrer :
+- top prompts génériques
+- simples opinions
+- rumeurs non sourcées
+- petits outils gadget
+- memes / posts divertissement
+- articles vagues sans nouveauté
+
+Réponds uniquement en JSON valide sous cette forme :
+[
+  {
+    "id": "id court fourni",
+    "importance": 1,
+    "is_noise": true,
+    "reason": "raison courte"
+  }
+]
+
+Importance :
+1 = inutile
+2 = faible
+3 = correct
+4 = important
+5 = majeur
+"""
+
+def build_judge_prompt(items):
+    joined = "\n\n".join(
+        f"ID: {item.get('short_id')}\n"
+        f"Titre: {item.get('title')}\n"
+        f"Source: {item.get('source')}\n"
+        f"Score règles: {item.get('rule_score')}\n"
+        f"Résumé: {item.get('summary', '')[:800]}"
+        for item in items
+    )
+    return f"Voici les actus à juger :\n\n{joined}"
 
 def build_digest_prompt(items, mode="morning"):
     max_news = "5 à 7" if mode == "morning" else "3 à 5"
@@ -19,6 +61,9 @@ def build_digest_prompt(items, mode="morning"):
         f"- Titre: {item.get('title')}\n"
         f"  Source: {item.get('source')}\n"
         f"  Lien: {item.get('link')}\n"
+        f"  Score final: {item.get('final_score')}\n"
+        f"  Importance IA: {item.get('ai_importance')}/5\n"
+        f"  Raison sélection: {item.get('ai_reason', '')}\n"
         f"  Résumé brut: {item.get('summary', '')[:1200]}"
         for item in items
     )
@@ -28,19 +73,17 @@ Tu dois créer un {style} de veille IA en français.
 
 Nombre d'actus à garder : {max_news}.
 Ne garde que les nouvelles importantes.
-Ignore les doublons et les articles faibles.
 
-Pour chaque actu, utilise EXACTEMENT ce format :
+Pour chaque actu :
 
 ### 🚀 1. Titre clair de l'actu
 
 👉 Résumé :
 Un résumé assez rempli, concret et compréhensible.
-Il doit expliquer ce qui s'est passé, qui est concerné, et ce qui est nouveau.
 
 👉 Contexte :
 Explique d'où vient cette évolution, dans quelle tendance IA elle s'inscrit,
-et pourquoi elle mérite d'être suivie. Le contexte doit être plus fourni que 2 lignes.
+et pourquoi elle mérite d'être suivie.
 
 👉 Pourquoi c'est important :
 - point 1
@@ -48,12 +91,10 @@ et pourquoi elle mérite d'être suivie. Le contexte doit être plus fourni que 
 - point 3
 
 👉 Impact concret :
-Explique les conséquences possibles pour les utilisateurs, développeurs,
-entreprises, créateurs, ou personnes qui veulent automatiser des choses.
+Explique les conséquences possibles.
 
 👉 Ce que ça change pour toi :
-Explique simplement en quoi c'est utile ou intéressant pour une personne
-qui veut apprendre l'IA et construire des bots/automatisations.
+Explique simplement en quoi c'est utile pour apprendre l'IA ou construire des bots.
 
 👉 Niveau d'importance :
 ⭐⭐⭐⭐☆ ou ⭐⭐⭐⭐⭐
@@ -64,15 +105,18 @@ lien exact
 À la fin, ajoute :
 
 ## ⚡ TL;DR du jour
-3 à 5 bullets clairs.
+3 à 5 bullets.
 
 ## 🧠 Tendance globale
-Explique la tendance générale qui ressort des actus du jour.
+Tendance générale qui ressort.
 
-## 🎯 À surveiller
-1 à 3 choses à surveiller dans les prochains jours.
+## 🎯 Top opportunité business
+Une idée concrète inspirée des actus du jour.
 
-Voici les informations à analyser :
+## 📚 Concept IA à comprendre
+Un concept IA lié aux actus.
+
+Infos à analyser :
 
 {joined}
 """

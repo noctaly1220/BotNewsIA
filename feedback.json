@@ -1,0 +1,28 @@
+{
+  "noise_keywords": [
+    "top 10 prompts",
+    "best prompts",
+    "logo generator",
+    "ai girlfriend",
+    "meme",
+    "wallpaper",
+    "make money fast"
+  ],
+  "important_keywords": [
+    "Claude Code",
+    "agents",
+    "new model",
+    "API",
+    "open source",
+    "reasoning",
+    "multimodal",
+    "automation"
+  ],
+  "blocked_sources": [],
+  "preferred_sources": [
+    "OpenAI",
+    "Anthropic",
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ]
+}

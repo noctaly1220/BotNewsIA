@@ -1,6 +1,3 @@
-# Sources de veille IA
-# type: rss | hackernews | reddit_json | producthunt_placeholder
-
 rss_sources:
   - name: OpenAI
     url: https://openai.com/news/rss.xml
@@ -47,16 +44,15 @@ rss_sources:
     category: analysis
     weight: 4
 
-reddit_sources:
- - name: Reddit LocalLLaMA
-  url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day
-  category: community
-  weight: 4
+  - name: Reddit LocalLLaMA
+    url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day
+    category: community
+    weight: 4
 
-- name: Reddit ChatGPT
-  url: https://www.reddit.com/r/ChatGPT/top/.rss?t=day
-  category: community
-  weight: 3
+  - name: Reddit ChatGPT
+    url: https://www.reddit.com/r/ChatGPT/top/.rss?t=day
+    category: community
+    weight: 3
 
 hackernews:
   enabled: true
@@ -70,3 +66,5 @@ hackernews:
     - Mistral
     - agent
     - model
+    - automation
+    - coding
