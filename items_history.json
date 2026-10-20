@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2026-10-20T21:10:54+02:00",
+    "mode": "morning",
+    "short_id": "1cfb6291fa",
+    "title": "OpenAI acquiert Orchestra Bio pour le développement de médicaments",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-20T21:10:54+02:00",
+    "mode": "morning",
+    "short_id": "1dbe226330",
+    "title": "Amélioration des modèles pour les langages de programmation peu documentés",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-20T21:10:54+02:00",
+    "mode": "morning",
+    "short_id": "e8a8161ff8",
+    "title": "NVIDIA Cosmos3-H-Dreams : simulation chirurgicale générative",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-20T21:10:54+02:00",
+    "mode": "morning",
+    "short_id": "ef73bf2ace",
+    "title": "FairStress : évaluation de l'équité dans les LLM",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-20T21:10:54+02:00",
+    "mode": "morning",
+    "short_id": "39e60f901a",
+    "title": "Hugging Face et TorchTPU : support natif pour TPUs",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/hf-torchtpu",
+    "importance": 4
+  }
+]
