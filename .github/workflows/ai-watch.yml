@@ -2,54 +2,42 @@ name: AI Watch Telegram Bot
 
 on:
   schedule:
-    # GitHub Actions fonctionne en UTC.
-    # Heure d'été France : 05:00 UTC = 07:00 Paris
-    - cron: "0 5 * * *"
-    # Heure d'été France : 16:00 UTC = 18:00 Paris
-    - cron: "0 16 * * *"
+    # UTC. Deux créneaux par slot pour couvrir heure d'été ET d'hiver ;
+    # main.py (--mode auto) ne s'exécute que dans le bon créneau Paris et jamais 2 fois.
+    - cron: "5 6,7 * * *"     # matin  -> 8h Paris
+    - cron: "5 15,16 * * *"   # soir   -> 17h Paris
   workflow_dispatch:
     inputs:
       mode:
-        description: "Mode du résumé"
+        description: "Mode (auto = selon l'heure de Paris)"
         required: true
-        default: "morning"
+        default: "auto"
         type: choice
         options:
+          - auto
           - morning
           - evening
+
+concurrency:
+  group: ai-watch
+  cancel-in-progress: false
 
 jobs:
   run-ai-watch:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 15
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Detect mode
-        id: mode
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "mode=${{ github.event.inputs.mode }}" >> $GITHUB_OUTPUT
-          else
-            HOUR=$(date -u +%H)
-            if [ "$HOUR" = "05" ]; then
-              echo "mode=morning" >> $GITHUB_OUTPUT
-            else
-              echo "mode=evening" >> $GITHUB_OUTPUT
-            fi
-          fi
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
 
       - name: Run bot
         env:
@@ -57,14 +45,13 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
-          MAX_ITEMS_MORNING: 7
-          MAX_ITEMS_EVENING: 5
-        run: python main.py --mode "${{ steps.mode.outputs.mode }}"
+        run: python main.py --mode "${{ github.event.inputs.mode || 'auto' }}"
 
-      - name: Commit seen items history
+      - name: Commit state
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add seen_items.json || true
-          git diff --cached --quiet || git commit -m "Update seen items"
-          git push || true
+          git config user.email "github-actions@users.noreply.github.com"
+          git add seen_items.json items_history.json feedback.json bot_state.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "chore: update bot state"
+          git pull --rebase || true
+          git push

@@ -1,3 +1,8 @@
+# category : official | official_open_source | news | analysis | community
+# weight : 1-5 (fiabilité/intérêt de base)
+# Les sources en échec sont listées dans les logs GitHub Actions ([ECHEC]).
+# Anthropic n'a pas de RSS officiel : flux communautaire à vérifier au 1er run.
+
 rss_sources:
   - name: OpenAI
     url: https://openai.com/news/rss.xml
@@ -5,22 +10,17 @@ rss_sources:
     weight: 5
 
   - name: Anthropic
-    url: https://www.anthropic.com/news/rss.xml
+    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
     category: official
     weight: 5
 
   - name: Google DeepMind
-    url: https://deepmind.google/discover/blog/rss.xml
+    url: https://deepmind.google/blog/rss.xml
     category: official
     weight: 5
 
   - name: Google AI Blog
     url: https://blog.google/technology/ai/rss/
-    category: official
-    weight: 4
-
-  - name: Meta AI
-    url: https://ai.meta.com/blog/rss/
     category: official
     weight: 4
 
@@ -34,37 +34,40 @@ rss_sources:
     category: news
     weight: 4
 
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: news
+    weight: 4
+
   - name: VentureBeat AI
     url: https://venturebeat.com/category/ai/feed/
     category: news
-    weight: 4
+    weight: 3
 
   - name: MIT Technology Review AI
     url: https://www.technologyreview.com/topic/artificial-intelligence/feed
     category: analysis
     weight: 4
 
-  - name: Reddit LocalLLaMA
-    url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day
-    category: community
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/everything/
+    category: analysis
     weight: 4
 
-  - name: Reddit ChatGPT
-    url: https://www.reddit.com/r/ChatGPT/top/.rss?t=day
+  - name: Reddit LocalLLaMA
+    url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day
     category: community
     weight: 3
 
 hackernews:
   enabled: true
+  min_points: 40
   query_terms:
-    - AI
     - OpenAI
     - Claude
     - Anthropic
     - Gemini
-    - Llama
+    - LLM
+    - AI agents
     - Mistral
-    - agent
-    - model
-    - automation
-    - coding
+    - Llama
