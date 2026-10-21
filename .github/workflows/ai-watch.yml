@@ -4,8 +4,8 @@ on:
   schedule:
     # UTC. Deux créneaux par slot pour couvrir heure d'été ET d'hiver ;
     # main.py (--mode auto) ne s'exécute que dans le bon créneau Paris et jamais 2 fois.
-    - cron: "5 6,7 * * *"     # matin  -> 8h Paris
-    - cron: "5 15,16 * * *"   # soir   -> 17h Paris
+    - cron: "5 6-13 * * *"     # matin  -> 8h Paris
+    - cron: "5 15-21 * * *"   # soir   -> 17h Paris
   workflow_dispatch:
     inputs:
       mode:
