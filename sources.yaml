@@ -39,11 +39,6 @@ rss_sources:
     category: news
     weight: 4
 
-  - name: VentureBeat AI
-    url: https://venturebeat.com/category/ai/feed/
-    category: news
-    weight: 3
-
   - name: MIT Technology Review AI
     url: https://www.technologyreview.com/topic/artificial-intelligence/feed
     category: analysis

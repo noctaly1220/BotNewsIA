@@ -166,9 +166,9 @@ def resolve_mode(arg: str, state: Dict) -> Optional[str]:
     if arg != "auto":
         return arg
     now = datetime.now(PARIS)
-    if 8 <= now.hour < 12:
+    if 8 <= now.hour < 15:
         mode = "morning"
-    elif 17 <= now.hour < 21:
+    elif 17 <= now.hour < 23:
         mode = "evening"
     else:
         print(f"[SKIP] {now:%H:%M} Paris : hors créneau.")
