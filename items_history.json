@@ -43,5 +43,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/hf-torchtpu",
     "importance": 4
+  },
+  {
+    "date": "2026-10-22T13:16:32+02:00",
+    "mode": "morning",
+    "short_id": "95dedf578d",
+    "title": "Les modèles OpenAI arrivent sur Google Cloud pour des workflows avancés",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/openai-models-google-cloud",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-22T13:16:32+02:00",
+    "mode": "morning",
+    "short_id": "64ddfb139f",
+    "title": "Des agents IA pour découvrir de nouvelles pistes dans les données biologiques",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-22T13:16:32+02:00",
+    "mode": "morning",
+    "short_id": "de9db6f384",
+    "title": "Coordination globale pour corriger des vulnérabilités critiques dans PHP",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-22T13:16:32+02:00",
+    "mode": "morning",
+    "short_id": "3fe372fb2e",
+    "title": "Cloudflare relie découverte de vulnérabilités et défense avec OpenAI",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/cloudflare-cyber",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-22T13:16:32+02:00",
+    "mode": "morning",
+    "short_id": "e270f5ba46",
+    "title": "Gouvernance démocratique de l'IA avancée : renforcer les défenseurs cyber",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/empowering-cyber-defenders",
+    "importance": 4
   }
 ]
