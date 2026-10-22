@@ -88,5 +88,32 @@
     "source": "OpenAI",
     "link": "https://openai.com/index/empowering-cyber-defenders",
     "importance": 4
+  },
+  {
+    "date": "2026-10-22T18:44:24+02:00",
+    "mode": "evening",
+    "short_id": "feacd6de00",
+    "title": "DeepSeek lève 15 milliards malgré des restrictions américaines",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-22T18:44:24+02:00",
+    "mode": "evening",
+    "short_id": "eda525050c",
+    "title": "Uber déploie ChatGPT Work pour tous ses employés",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-22T18:44:24+02:00",
+    "mode": "evening",
+    "short_id": "ea92da5c12",
+    "title": "ChatGPT Ads atteint 1 milliard de dollars en moins de 200 jours",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/building-chatgpt-ad-stack",
+    "importance": 4
   }
 ]
