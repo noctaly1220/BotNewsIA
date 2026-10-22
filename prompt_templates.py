@@ -36,8 +36,10 @@ RÈGLES ABSOLUES :
 
 Pour chaque article, produis :
 - title_fr : titre français clair, 90 caractères max, pas de traduction mot à mot.
-- what : 2 phrases max (280 caractères max) : qui a fait quoi, avec les chiffres clés du texte.
-- why : 1 phrase (160 caractères max) : la conséquence concrète et précise, pas une généralité.
+- what : 3 phrases max (450 caractères max) : qui a fait quoi, quand, avec les chiffres et détails clés du texte.
+- context : 2 phrases max (260 caractères max) : ce qui précède ou à quoi ça se compare, UNIQUEMENT si
+  c'est dans le texte fourni (version précédente, concurrent, chiffres de comparaison). Sinon null.
+- why : 1 à 2 phrases (200 caractères max) : la conséquence concrète et précise, pas une généralité.
 - for_you : 1 phrase (160 caractères max) UNIQUEMENT si utile concrètement pour construire un bot/une app,
   automatiser, ou une idée business précise. Sinon null. Mieux vaut null qu'une phrase forcée.
 - tag : model | tool | business | research | policy | other
@@ -45,7 +47,7 @@ Pour chaque article, produis :
 Et un "tldr" : 3 puces (100 caractères max chacune), une par actu principale, lisibles seules.
 
 Réponds uniquement avec un objet JSON :
-{{"tldr": ["..."], "items": [{{"id": "...", "title_fr": "...", "what": "...", "why": "...", "for_you": null, "tag": "model"}}]}}
+{{"tldr": ["..."], "items": [{{"id": "...", "title_fr": "...", "what": "...", "context": null, "why": "...", "for_you": null, "tag": "model"}}]}}
 """
 
 

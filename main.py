@@ -37,6 +37,7 @@ SEEN_TTL_DAYS = 45         # purge de la mémoire des articles vus
 MAX_CANDIDATES = 15        # articles lus en entier puis jugés
 MAX_ARTICLE_CHARS = 3500
 MAX_ITEMS = {"morning": 5, "evening": 3}
+EXTRA_ITEMS = 2  # actus bonus, uniquement si importance 5 (majeur)
 MIN_IMPORTANCE = {"morning": 3, "evening": 4}
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; BotNewsIA/2.0)"}
@@ -368,7 +369,9 @@ def select_items(candidates: List[Dict], mode: str):
         if imp >= MIN_IMPORTANCE[mode]:
             selected.append(it)
     selected.sort(key=lambda x: (x["importance"], x["rule_score"]), reverse=True)
-    selected = selected[:MAX_ITEMS[mode]]
+    base = MAX_ITEMS[mode]
+    extra = [it for it in selected[base:] if it["importance"] >= 5][:EXTRA_ITEMS]
+    selected = selected[:base] + extra
     to_mark_seen.update(it["id"] for it in selected)
     return selected, to_mark_seen
 
@@ -383,7 +386,8 @@ def write_digest(items: List[Dict], mode: str) -> Dict:
         out.append({
             "item": it,
             "title": r.get("title_fr") or it["title"],
-            "what": r.get("what") or (it["summary"][:280] or "Résumé indisponible."),
+            "what": r.get("what") or (it["summary"][:450] or "Résumé indisponible."),
+            "context": r.get("context") or "",
             "why": r.get("why") or "",
             "for_you": r.get("for_you") or "",
             "tag": r.get("tag") if r.get("tag") in TAGS else it.get("category_llm", "other"),
@@ -447,6 +451,8 @@ def render_item(entry: Dict) -> (str, List[List[Dict]]):
         "",
         esc(entry["what"]),
     ]
+    if entry.get("context"):
+        lines += ["", f"📚 <b>Contexte :</b> {esc(entry['context'])}"]
     if entry["why"]:
         lines += ["", f"💡 <b>Pourquoi ça compte :</b> {esc(entry['why'])}"]
     if entry["for_you"]:
