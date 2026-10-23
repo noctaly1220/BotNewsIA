@@ -160,5 +160,32 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "importance": 4
+  },
+  {
+    "date": "2026-10-23T18:35:10+02:00",
+    "mode": "evening",
+    "short_id": "ee4c22366e",
+    "title": "OpenAI optimise Habitat pour 1 milliard d'utilisateurs de ChatGPT",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-23T18:35:10+02:00",
+    "mode": "evening",
+    "short_id": "2b3f616d26",
+    "title": "Vérifiez si votre modèle fonctionne sur AWS Trainium",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-23T18:35:10+02:00",
+    "mode": "evening",
+    "short_id": "f674cb3a2e",
+    "title": "Claude Duet : l'agent d'Anthropic pour les professionnels",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
+    "importance": 4
   }
 ]
