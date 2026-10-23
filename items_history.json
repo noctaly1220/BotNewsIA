@@ -115,5 +115,50 @@
     "source": "OpenAI",
     "link": "https://openai.com/index/building-chatgpt-ad-stack",
     "importance": 4
+  },
+  {
+    "date": "2026-10-23T08:07:49+02:00",
+    "mode": "morning",
+    "short_id": "891b7e0bbf",
+    "title": "API Decisions : des décisions rapides pour vos applications",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/decisions-api",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-23T08:07:49+02:00",
+    "mode": "morning",
+    "short_id": "bdc7b775ab",
+    "title": "Agent Skills : un don à la fondation Agentic AI",
+    "source": "Anthropic",
+    "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-23T08:07:49+02:00",
+    "mode": "morning",
+    "short_id": "51888f116f",
+    "title": "ThinkingBox : des récompenses pour agents post-formation",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-23T08:07:49+02:00",
+    "mode": "morning",
+    "short_id": "67297d2df9",
+    "title": "OlmoEarth v1.3 : embeddings satellites avancés",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-23T08:07:49+02:00",
+    "mode": "morning",
+    "short_id": "0e5fad3ca5",
+    "title": "Prévisions avec les modèles Granite d'IBM",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "importance": 4
   }
 ]
