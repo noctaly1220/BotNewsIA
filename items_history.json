@@ -187,5 +187,50 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
     "importance": 4
+  },
+  {
+    "date": "2026-10-24T08:07:50+02:00",
+    "mode": "morning",
+    "short_id": "b514b87bc6",
+    "title": "OpenAI lève 30 milliards de dollars avant son IPO à 1,25 trillion de dollars",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-24T08:07:50+02:00",
+    "mode": "morning",
+    "short_id": "1a543055a0",
+    "title": "OpenAI et NASK s'associent pour la sécurité de l'IA",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-24T08:07:50+02:00",
+    "mode": "morning",
+    "short_id": "f8c156dba7",
+    "title": "OpenAI sécurise son environnement d'entraînement des modèles",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-24T08:07:50+02:00",
+    "mode": "morning",
+    "short_id": "a6d2d5fdb7",
+    "title": "OpenAI forme ses modèles d'IA sans accès à Internet",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-24T08:07:50+02:00",
+    "mode": "morning",
+    "short_id": "585ea363f0",
+    "title": "OpenAI ne formera plus ses modèles sur Internet en direct",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+    "importance": 4
   }
 ]
