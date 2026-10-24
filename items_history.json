@@ -232,5 +232,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
     "importance": 4
+  },
+  {
+    "date": "2026-10-24T19:07:49+02:00",
+    "mode": "evening",
+    "short_id": "b5619922e4",
+    "title": "Lancement de Kimi K3.1 Pro avec des performances prometteuses",
+    "source": "Simon Willison",
+    "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-24T19:07:49+02:00",
+    "mode": "evening",
+    "short_id": "1fc8d9b4e9",
+    "title": "DeepSeek-V4.1-Flash-1017 : un modèle quantifié innovant",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-24T19:07:49+02:00",
+    "mode": "evening",
+    "short_id": "833d5d33c6",
+    "title": "Biais politiques dans les recommandations de Grok et GPT-6.1",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+    "importance": 4
   }
 ]
