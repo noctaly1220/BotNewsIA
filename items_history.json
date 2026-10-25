@@ -259,5 +259,50 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
     "importance": 4
+  },
+  {
+    "date": "2026-10-25T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "f75803cafe",
+    "title": "Les agents IA accessibles par SMS pour gérer vos tâches",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-25T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "988202d2fe",
+    "title": "Une liste des projets IA qui n'ont pas survécu",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-25T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "c7aa9b7dfe",
+    "title": "La Pennsylvanie impose des étiquettes sur les publicités IA",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-25T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "60b56cc303",
+    "title": "Block présente Dessa, un modèle IA pour des conversations naturelles",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-25T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "b5d56d5ca5",
+    "title": "Oai-math-revised : un hub communautaire pour améliorer les écrits mathématiques d'OpenAI",
+    "source": "Hacker News",
+    "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+    "importance": 3
   }
 ]
