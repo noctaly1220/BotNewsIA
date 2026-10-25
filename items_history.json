@@ -304,5 +304,32 @@
     "source": "Hacker News",
     "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
     "importance": 3
+  },
+  {
+    "date": "2026-10-25T19:07:43+01:00",
+    "mode": "evening",
+    "short_id": "b411fbb248",
+    "title": "Le subreddit r/opensource interdit les projets utilisant l'IA",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-25T19:07:43+01:00",
+    "mode": "evening",
+    "short_id": "b83204b7e9",
+    "title": "Un CNN de 10 ans surpasse des LLMs récents pour le diagnostic du cancer de la peau",
+    "source": "Hacker News",
+    "link": "https://lynchlab.net/llm-skin-cancer",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-25T19:07:43+01:00",
+    "mode": "evening",
+    "short_id": "79ffda0a47",
+    "title": "L'IA n'apporte aucun bénéfice financier aux entreprises hors secteur technologique",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+    "importance": 4
   }
 ]
