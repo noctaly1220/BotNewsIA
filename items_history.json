@@ -358,5 +358,32 @@
     "source": "Reddit LocalLLaMA",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm",
     "importance": 3
+  },
+  {
+    "date": "2026-10-26T19:07:56+01:00",
+    "mode": "evening",
+    "short_id": "9a064d9590",
+    "title": "Anthropic dépose un dossier pour une introduction en bourse",
+    "source": "Anthropic",
+    "link": "https://www.anthropic.com/news/s1-sec",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-26T19:07:56+01:00",
+    "mode": "evening",
+    "short_id": "27334100e8",
+    "title": "OpenAI publie des données sur l'utilisation de ChatGPT au travail",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-26T19:07:56+01:00",
+    "mode": "evening",
+    "short_id": "4d610e220c",
+    "title": "OpenAI améliore la migration de code COBOL vers des langages modernes",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+    "importance": 4
   }
 ]
