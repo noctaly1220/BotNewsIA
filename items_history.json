@@ -331,5 +331,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
     "importance": 4
+  },
+  {
+    "date": "2026-10-26T08:07:46+01:00",
+    "mode": "morning",
+    "short_id": "2408884424",
+    "title": "OpenAI et Anthropic réduisent leurs prix de LLM jusqu'à 80%",
+    "source": "Hacker News",
+    "link": "https://minimaxir.com/2026/10/cheap-llms",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-26T08:07:46+01:00",
+    "mode": "morning",
+    "short_id": "ab1f7cff37",
+    "title": "Les changements de recherche AI de Google perturbent l'édition en ligne",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-26T08:07:46+01:00",
+    "mode": "morning",
+    "short_id": "f5cb82d0af",
+    "title": "CrowdGPT - Un LLM entraîné collaborativement",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm",
+    "importance": 3
   }
 ]
