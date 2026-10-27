@@ -430,5 +430,32 @@
     "source": "OpenAI",
     "link": "https://openai.com/index/openai-cut-incident-investigation",
     "importance": 3
+  },
+  {
+    "date": "2026-10-27T18:34:36+01:00",
+    "mode": "evening",
+    "short_id": "e960e8891f",
+    "title": "Genie 4 : Une nouvelle génération de simulation du monde",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-27T18:34:36+01:00",
+    "mode": "evening",
+    "short_id": "f3e020b4ef",
+    "title": "Anthropic a utilisé illégalement des livres de Stanford pour Claude",
+    "source": "Hacker News",
+    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-27T18:34:36+01:00",
+    "mode": "evening",
+    "short_id": "c417f8e3d3",
+    "title": "OpenAI et Oracle unissent leurs forces pour ChatGPT",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "importance": 4
   }
 ]
