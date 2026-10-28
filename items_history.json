@@ -502,5 +502,32 @@
     "source": "OpenAI",
     "link": "https://openai.com/index/check-point-daybreak",
     "importance": 4
+  },
+  {
+    "date": "2026-10-28T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "3e32bae570",
+    "title": "Gemini 4 Carbon : le modèle de cybersécurité avancé de Google DeepMind",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-28T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "67c6b18b0a",
+    "title": "Legora : un système d'exploitation agentique pour le travail juridique",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-28T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "ec733f799e",
+    "title": "NVIDIA Nemotron 3.5 Transcribe : transcription multilingue intelligente",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "importance": 4
   }
 ]
