@@ -457,5 +457,50 @@
     "source": "OpenAI",
     "link": "https://openai.com/index/oracle-apps-in-chatgpt",
     "importance": 4
+  },
+  {
+    "date": "2026-10-28T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "db05b50ceb",
+    "title": "Poursuite contre OpenAI pour conseils médicaux inappropriés via ChatGPT",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-28T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "550f4d8863",
+    "title": "Partenariat renforcé entre Anthropic et le gouvernement américain",
+    "source": "Anthropic",
+    "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-28T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "1e3ebf94e4",
+    "title": "Retell utilise OpenAI pour gérer 100 millions d'appels par mois",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/retell-ai",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-28T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "dcad83d827",
+    "title": "Anthropic accélère le développement de médicaments avec Claude",
+    "source": "Anthropic",
+    "link": "https://www.anthropic.com/research/early-progress-drug-development",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-28T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "c44dc9ed27",
+    "title": "Check Point utilise Daybreak pour accélérer la recherche de vulnérabilités",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/check-point-daybreak",
+    "importance": 4
   }
 ]
