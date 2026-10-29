@@ -529,5 +529,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
     "importance": 4
+  },
+  {
+    "date": "2026-10-29T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "7b5653451a",
+    "title": "Google lance Gemini 4 Carbon, avancées en cybersécurité",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-29T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "a395c7da35",
+    "title": "OpenAI et ServiceNow étendent leur partenariat",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-29T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "709cc8e2bd",
+    "title": "Legora construit un système d'exploitation pour le travail juridique",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/legora",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-29T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "353dd9ae44",
+    "title": "Microsoft génère 10 milliards de dollars avec OpenAI",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-29T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "090274bcc4",
+    "title": "Google ouvre Gemini et Search à plus d'applications",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+    "importance": 4
   }
 ]
