@@ -574,5 +574,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
     "importance": 4
+  },
+  {
+    "date": "2026-10-29T19:07:59+01:00",
+    "mode": "evening",
+    "short_id": "b6b3074306",
+    "title": "Mistral Large 4 : un modèle multimodal sur Hugging Face",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/mistral-large4",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-29T19:07:59+01:00",
+    "mode": "evening",
+    "short_id": "5a25565ab7",
+    "title": "Mistral Large 4 : poids disponibles pour un modèle amélioré",
+    "source": "Hacker News",
+    "link": "https://mistral.ai/news/mistral-large-4-oss",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-29T19:07:59+01:00",
+    "mode": "evening",
+    "short_id": "927698c982",
+    "title": "Mistral Large 4 : poids pour la cybersécurité disponibles",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+    "importance": 5
   }
 ]
