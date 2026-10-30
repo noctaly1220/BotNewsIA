@@ -601,5 +601,50 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
     "importance": 5
+  },
+  {
+    "date": "2026-10-30T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "9349f418e7",
+    "title": "Mise à jour du Model Spec pour une IA plus bénéfique",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/updated-model-spec",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-30T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "0f01adb2ac",
+    "title": "Détection des comportements non alignés des modèles IA",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-30T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "d948735545",
+    "title": "Ropes & Gray développe une IA pour la diligence transactionnelle",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/ropes-gray-ai-diligence",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-30T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "718617961c",
+    "title": "Lancement du projet ProtoStar pour rendre la science accessible",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/announcing-project-protostar",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-30T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "ec80bada15",
+    "title": "Besoin urgent de surveiller les actions des agents IA en temps réel",
+    "source": "MIT Technology Review AI",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
+    "importance": 4
   }
 ]

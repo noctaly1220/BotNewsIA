@@ -1,6 +1,5 @@
 {
   "done_slots": [
-    "2026-10-25-morning",
     "2026-10-25-evening",
     "2026-10-26-morning",
     "2026-10-26-evening",
@@ -9,7 +8,8 @@
     "2026-10-28-morning",
     "2026-10-28-evening",
     "2026-10-29-morning",
-    "2026-10-29-evening"
+    "2026-10-29-evening",
+    "2026-10-30-morning"
   ],
   "tg_offset": 0
 }
