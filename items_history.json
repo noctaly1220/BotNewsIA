@@ -646,5 +646,32 @@
     "source": "MIT Technology Review AI",
     "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
     "importance": 4
+  },
+  {
+    "date": "2026-10-30T19:07:57+01:00",
+    "mode": "evening",
+    "short_id": "6edd96eae3",
+    "title": "Porte dérobée dans l'extension Claude Code pour VS Code",
+    "source": "Hacker News",
+    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-30T19:07:57+01:00",
+    "mode": "evening",
+    "short_id": "a86d24c59c",
+    "title": "OpenAI renforce la sécurité pour les adolescents sur ChatGPT",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-30T19:07:57+01:00",
+    "mode": "evening",
+    "short_id": "4aa6b4f103",
+    "title": "Éditez des fichiers Google Docs directement dans les chats Gemini",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "importance": 4
   }
 ]
