@@ -673,5 +673,50 @@
     "source": "The Verge AI",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
     "importance": 4
+  },
+  {
+    "date": "2026-10-31T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "5229178591",
+    "title": "Thrive Holdings acquiert ADT pour 7,6 milliards de dollars",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+    "importance": 5
+  },
+  {
+    "date": "2026-10-31T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "84abd1857d",
+    "title": "OpenAI facilite l'expression des préférences d'entraînement AI par les sites",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-31T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "1abfdb6dc9",
+    "title": "Anthropic pourrait recevoir une note 'junk' après son IPO",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-31T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "42474e9193",
+    "title": "Le premier satellite de centre de données de Google est en ligne",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+    "importance": 4
+  },
+  {
+    "date": "2026-10-31T08:07:49+01:00",
+    "mode": "morning",
+    "short_id": "574dbaf7fc",
+    "title": "Le fair use bénéficie à tous dans le contexte de l'IA",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/fair-use-benefits-everyone",
+    "importance": 3
   }
 ]
