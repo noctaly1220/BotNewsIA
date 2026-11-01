@@ -790,5 +790,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
     "importance": 3
+  },
+  {
+    "date": "2026-11-01T19:07:46+01:00",
+    "mode": "evening",
+    "short_id": "90036fd495",
+    "title": "Fuite présumée du modèle Mythos d'Anthropic sur Hugging Face",
+    "source": "Hacker News",
+    "link": "https://news.ycombinator.com/item?id=50326727",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-01T19:07:46+01:00",
+    "mode": "evening",
+    "short_id": "47e3716151",
+    "title": "Infernix - Nouvelle version disponible !",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-01T19:07:46+01:00",
+    "mode": "evening",
+    "short_id": "eea7d329c4",
+    "title": "Lancement de Drex Max v1 : modèle décisionnel multimodal",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal",
+    "importance": 4
   }
 ]
