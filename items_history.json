@@ -745,5 +745,50 @@
     "source": "Hacker News",
     "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
     "importance": 4
+  },
+  {
+    "date": "2026-11-01T08:07:48+01:00",
+    "mode": "morning",
+    "short_id": "785d4ceb71",
+    "title": "Exploitation de ChatGPT pour accéder aux données privées",
+    "source": "Simon Willison",
+    "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-01T08:07:48+01:00",
+    "mode": "morning",
+    "short_id": "c0588a7875",
+    "title": "Un malware utilise des LLMs pour évaluer la valeur des victimes",
+    "source": "Hacker News",
+    "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-01T08:07:48+01:00",
+    "mode": "morning",
+    "short_id": "4ea2bbfbe1",
+    "title": "Fusion des limites d'utilisation de ChatGPT et Codex",
+    "source": "Hacker News",
+    "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-01T08:07:48+01:00",
+    "mode": "morning",
+    "short_id": "b38e8b1f84",
+    "title": "Anthropic bloque Claude contre le reverse-engineering de jeux vidéo",
+    "source": "Hacker News",
+    "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-01T08:07:48+01:00",
+    "mode": "morning",
+    "short_id": "b57691e750",
+    "title": "Un juge permet à la NAACP de poursuivre xAI pour pollution",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+    "importance": 3
   }
 ]
