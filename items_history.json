@@ -817,5 +817,50 @@
     "source": "Reddit LocalLLaMA",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal",
     "importance": 4
+  },
+  {
+    "date": "2026-11-02T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "82ac4cd5fc",
+    "title": "Mellum2.1 avec MTP head : amélioration de la vitesse de décodage",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-02T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "ef79256ca5",
+    "title": "OpenAI modifie l'accès aux chats illimités de ChatGPT",
+    "source": "Hacker News",
+    "link": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-02T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "52b1bc62c3",
+    "title": "Heretic 2.0 : un outil de modification de modèles généraliste",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-02T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "dc416e156c",
+    "title": "Optimisation de DeepSeek pour un GPU standard",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-02T08:07:53+01:00",
+    "mode": "morning",
+    "short_id": "8a285766f5",
+    "title": "GLM-5.3-Flash comme principal outil de codage",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xkz4lf/glm53flash_on_our_h200s_does_most_of_my_coding",
+    "importance": 3
   }
 ]
