@@ -862,5 +862,32 @@
     "source": "Reddit LocalLLaMA",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xkz4lf/glm53flash_on_our_h200s_does_most_of_my_coding",
     "importance": 3
+  },
+  {
+    "date": "2026-11-02T19:07:51+01:00",
+    "mode": "evening",
+    "short_id": "6e98f979af",
+    "title": "Anthropic : 33,24 milliards de revenus, mais pertes nettes de 104 milliards",
+    "source": "Hacker News",
+    "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-02T19:07:51+01:00",
+    "mode": "evening",
+    "short_id": "5a014341bc",
+    "title": "OpenAI lance LifeVal pour améliorer l'assistance quotidienne avec ChatGPT",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/lifeval",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-02T19:07:51+01:00",
+    "mode": "evening",
+    "short_id": "b9220a3291",
+    "title": "Qwen confirme que ses futurs modèles resteront open source",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open",
+    "importance": 4
   }
 ]
