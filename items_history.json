@@ -889,5 +889,50 @@
     "source": "Reddit LocalLLaMA",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open",
     "importance": 4
+  },
+  {
+    "date": "2026-11-03T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "277870ffc8",
+    "title": "OpenAI améliore Git avec Pando pour un meilleur contrôle de version",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-03T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "4094d4340f",
+    "title": "Qodo intègre le contexte dans la révision de code avec Codex",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/qodo-codex-plugin",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-03T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "0db7b6f459",
+    "title": "Anthropic dépense plus pour l'IA que pour les salaires des employés",
+    "source": "Hacker News",
+    "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-03T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "0d29709038",
+    "title": "OpenAI prépare un sprint de sécurité pour renforcer ses systèmes",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-03T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "945f879ef3",
+    "title": "Dan Driscoll rejoint OpenAI pour moderniser la sécurité nationale",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "importance": 3
   }
 ]
