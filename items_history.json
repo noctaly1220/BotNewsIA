@@ -934,5 +934,32 @@
     "source": "OpenAI",
     "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "importance": 3
+  },
+  {
+    "date": "2026-11-03T19:07:50+01:00",
+    "mode": "evening",
+    "short_id": "23c4f13036",
+    "title": "Google Antigravity : Accélération de la découverte de médicaments",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-03T19:07:50+01:00",
+    "mode": "evening",
+    "short_id": "8d86676710",
+    "title": "StateBench : Évaluation du suivi d'état dans les documents longs",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-03T19:07:50+01:00",
+    "mode": "evening",
+    "short_id": "63945bc794",
+    "title": "CWE-bench v2 : Plus de couverture et de transparence",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/cwe-bench",
+    "importance": 4
   }
 ]
