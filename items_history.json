@@ -961,5 +961,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/cwe-bench",
     "importance": 4
+  },
+  {
+    "date": "2026-11-04T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "34e7d62615",
+    "title": "Cisco renforce la sécurité réseau avec OpenAI",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/cisco-cyber",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-04T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "fc87a45dcf",
+    "title": "Heimstaden révolutionne la gestion immobilière avec l'IA",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/heimstaden",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-04T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "25493a43cb",
+    "title": "OpenAI accélère l'ingénierie physique avec ses modèles",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-04T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "9d52bf97ae",
+    "title": "LLM CLI de Simon Willison : nouvelles fonctionnalités",
+    "source": "Simon Willison",
+    "link": "https://simonwillison.net/2026/Nov/2/llm",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-04T08:07:52+01:00",
+    "mode": "morning",
+    "short_id": "2a746fdcd0",
+    "title": "ChatGPT rivalise avec Google en recherche",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+    "importance": 4
   }
 ]
