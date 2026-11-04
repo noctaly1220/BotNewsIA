@@ -1006,5 +1006,32 @@
     "source": "The Verge AI",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
     "importance": 4
+  },
+  {
+    "date": "2026-11-04T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "1be4fdd8e6",
+    "title": "OpenAI acquiert Pierre Computer Company pour Codex",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-04T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "32d4e91d24",
+    "title": "Dharma Field Extractor : documents en JSON structuré",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-04T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "a3433e936d",
+    "title": "Daybreak Red disponible sur AWS GovCloud pour la cybersécurité",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "importance": 4
   }
 ]
