@@ -1033,5 +1033,50 @@
     "source": "OpenAI",
     "link": "https://openai.com/index/daybreak-red-aws-govcloud",
     "importance": 4
+  },
+  {
+    "date": "2026-11-05T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "295354ff42",
+    "title": "Images 2.6 : Créez des GIFs et améliorez vos visuels rapidement",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/introducing-images-2-6",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-05T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "981785a015",
+    "title": "DevRev utilise GPT-6.1 Sol pour un service client autonome",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/devrev-enterprise-self-service",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-05T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "fbaa86a829",
+    "title": "Un pipeline autonome pour découvrir et corriger les vulnérabilités",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-05T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "2f7abd088f",
+    "title": "Meta acquiert Conductor pour améliorer le développement logiciel",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-05T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "97689e4470",
+    "title": "Gemini pour Home s'intègre au système de sécurité d'AT&T",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+    "importance": 3
   }
 ]
