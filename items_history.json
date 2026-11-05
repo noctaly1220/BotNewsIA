@@ -1078,5 +1078,32 @@
     "source": "The Verge AI",
     "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
     "importance": 3
+  },
+  {
+    "date": "2026-11-05T19:07:48+01:00",
+    "mode": "evening",
+    "short_id": "1750855042",
+    "title": "Gemini Omni 1.2 Flash : vidéos rapides et économiques jusqu'à 15 secondes",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-05T19:07:48+01:00",
+    "mode": "evening",
+    "short_id": "25fa4dd18e",
+    "title": "OpenAI établit un nouveau standard pour une IA responsable",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-05T19:07:48+01:00",
+    "mode": "evening",
+    "short_id": "c65c7708e9",
+    "title": "Phonon TTS : discours de haute qualité sur appareil",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "importance": 4
   }
 ]
