@@ -1150,5 +1150,32 @@
     "source": "Reddit LocalLLaMA",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on",
     "importance": 4
+  },
+  {
+    "date": "2026-11-06T19:08:00+01:00",
+    "mode": "evening",
+    "short_id": "5a90caffb2",
+    "title": "ToyBlocks : un environnement contrôlé pour l'apprentissage des robots",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/allenai/toyblocks",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-06T19:08:00+01:00",
+    "mode": "evening",
+    "short_id": "bbd492caba",
+    "title": "Cult.fit optimise ses opérations avec Codex",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/cultfit-builds-with-codex",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-06T19:08:00+01:00",
+    "mode": "evening",
+    "short_id": "13e4c95dcb",
+    "title": "L'anglais égyptien et nigérian rejoint le Open ASR Leaderboard",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "importance": 4
   }
 ]
