@@ -1105,5 +1105,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/phonon-tts",
     "importance": 4
+  },
+  {
+    "date": "2026-11-06T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "14e90e72d3",
+    "title": "GPT-6 Cyber : Avancée dans la cybersécurité avec des agents alignés",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/introducing-gpt-6-cyber",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-06T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "db9792e954",
+    "title": "Merge intègre la technologie OpenAI pour des outils d'entreprise",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/merge-builds-with-openai",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-06T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "485654c1f9",
+    "title": "Gemini Omni 1.2 Flash : Vidéos rapides et économiques",
+    "source": "Google AI Blog",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-06T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "2165b65a40",
+    "title": "Perplexity lance des agents AI pour le travail",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-06T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "fb914a4ae4",
+    "title": "PipesHub se classe premier sur EnterpriseRAG-Bench",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on",
+    "importance": 4
   }
 ]
