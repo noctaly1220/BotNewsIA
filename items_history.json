@@ -1222,5 +1222,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
     "importance": 4
+  },
+  {
+    "date": "2026-11-07T18:57:37+01:00",
+    "mode": "evening",
+    "short_id": "a0a44ed09d",
+    "title": "OpenAI s'associe à Hacktron pour tester la sécurité de ses systèmes",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-07T18:57:37+01:00",
+    "mode": "evening",
+    "short_id": "eecad6fef1",
+    "title": "Anthropic utilise l'IA pour automatiser son développement",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-07T18:57:37+01:00",
+    "mode": "evening",
+    "short_id": "b521172828",
+    "title": "Ventes de puces Nvidia à des entreprises chinoises soulèvent des inquiétudes",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "importance": 4
   }
 ]
