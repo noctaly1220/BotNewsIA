@@ -1177,5 +1177,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
     "importance": 4
+  },
+  {
+    "date": "2026-11-07T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "6c7191a9da",
+    "title": "OpenAI atteint une valorisation de 1,25 trillion de dollars",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-07T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "5f721228af",
+    "title": "BioBasicsBench évalue l'interprétation des données expérimentales par l'IA",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-07T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "f25b9201ad",
+    "title": "NVIDIA Cosmos 3 ajoute des modèles pour la simulation interactive",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-07T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "d2cf9ea98e",
+    "title": "Perplexity lance des agents IA pour le travail",
+    "source": "Hacker News",
+    "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-07T08:08:06+01:00",
+    "mode": "morning",
+    "short_id": "97dac9d930",
+    "title": "Les dépenses en IA stagnent alors qu'Anthropic se prépare à son IPO",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+    "importance": 4
   }
 ]
