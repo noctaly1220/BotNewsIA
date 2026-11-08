@@ -1249,5 +1249,50 @@
     "source": "The Verge AI",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
     "importance": 4
+  },
+  {
+    "date": "2026-11-08T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "73208cc6d7",
+    "title": "Valet : gérez votre homelab avec des LLM locaux (open source)",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-08T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "51c4ca9972",
+    "title": "Modèle de détection EOU open-source pour 9 langues",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-08T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "3f550234d6",
+    "title": "Terrarium : VMs locales pour agents AI avec permissions explicites",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xq6xqg/terrarium_local_vms_for_ai_agents_with_explicit",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-08T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "9602b22054",
+    "title": "Crowd-v1 : le LLM collaboratif",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-08T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "2af345503c",
+    "title": "Crusoe vend un projet de centre de données à Google",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
+    "importance": 4
   }
 ]
