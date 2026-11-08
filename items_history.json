@@ -1294,5 +1294,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
     "importance": 4
+  },
+  {
+    "date": "2026-11-08T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "7cdeffc8e0",
+    "title": "OpenAI lève 11 milliards de dollars à une valorisation de 1,25 trillion",
+    "source": "Hacker News",
+    "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-08T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "67aab89f67",
+    "title": "Drex Max v1.1 atteint des performances de pointe pour les modèles de décision",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-08T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "c08233254a",
+    "title": "Suno fait face à des poursuites pour violation des droits d'artistes célèbres",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "importance": 4
   }
 ]
