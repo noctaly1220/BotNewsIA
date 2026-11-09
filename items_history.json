@@ -1321,5 +1321,50 @@
     "source": "The Verge AI",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
     "importance": 4
+  },
+  {
+    "date": "2026-11-09T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "fe5fdb83e1",
+    "title": "Goldman Sachs restreint l'accès à Claude Code pour ses traders et banquiers",
+    "source": "Hacker News",
+    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-09T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "b9c0dd474c",
+    "title": "Apple cherche à rendre Siri plus agentique pour rivaliser avec OpenAI",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-09T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "54c06e97d6",
+    "title": "Nvidia enquête sur son CEO pour des liens avec une espionne chinoise",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-09T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "0270144714",
+    "title": "Un benchmark open-source mesure la complexité du code des modèles IA",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xrathc/how_much_code_do_ai_models_and_harnesses_add_i",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-09T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "bf07464536",
+    "title": "Stratégies pour comparer les performances des modèles LLM localement",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xrbhdf/how_do_you_locally_benchmark_and_compare_local",
+    "importance": 3
   }
 ]
