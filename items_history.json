@@ -1366,5 +1366,32 @@
     "source": "Reddit LocalLLaMA",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xrbhdf/how_do_you_locally_benchmark_and_compare_local",
     "importance": 3
+  },
+  {
+    "date": "2026-11-09T19:08:01+01:00",
+    "mode": "evening",
+    "short_id": "48b9783d0b",
+    "title": "Anthropic investit 3,4 milliards $ dans des turbines à gaz naturel",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-09T19:08:01+01:00",
+    "mode": "evening",
+    "short_id": "ac8f187502",
+    "title": "Lancement d'un dataset synthétique pour la finance au Japon",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-09T19:08:01+01:00",
+    "mode": "evening",
+    "short_id": "55d059b88c",
+    "title": "Une méthode de taille d'experts améliore les modèles MoE",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "importance": 4
   }
 ]
