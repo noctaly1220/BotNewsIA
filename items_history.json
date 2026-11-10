@@ -1438,5 +1438,32 @@
     "source": "Hacker News",
     "link": "https://github.com/thisisme6598/gemini_files",
     "importance": 4
+  },
+  {
+    "date": "2026-11-10T19:07:54+01:00",
+    "mode": "evening",
+    "short_id": "84757a8b6e",
+    "title": "Anthropic lance son roadshow pour une IPO de 825 millions d'actions",
+    "source": "Anthropic",
+    "link": "https://www.anthropic.com/news/roadshow-launch",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-10T19:07:54+01:00",
+    "mode": "evening",
+    "short_id": "55cb0588b3",
+    "title": "Gemini 4 Carbon est maintenant disponible",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-10T19:07:54+01:00",
+    "mode": "evening",
+    "short_id": "c979be8e72",
+    "title": "Google Cloud lance Gemini pour le secteur de la santé",
+    "source": "Google AI Blog",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+    "importance": 4
   }
 ]
