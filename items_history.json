@@ -1393,5 +1393,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
     "importance": 4
+  },
+  {
+    "date": "2026-11-10T08:08:16+01:00",
+    "mode": "morning",
+    "short_id": "a989f15820",
+    "title": "Nouveaux modèles Claude Fable 5.2 et Mythos 5.2 d'Anthropic",
+    "source": "Anthropic",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-10T08:08:16+01:00",
+    "mode": "morning",
+    "short_id": "caa9073cef",
+    "title": "ChatGPT Enterprise disponible sur AWS Marketplace",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-10T08:08:16+01:00",
+    "mode": "morning",
+    "short_id": "952d2516af",
+    "title": "OpenAI lance un système de contrôle pour les modèles",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/control-room",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-10T08:08:16+01:00",
+    "mode": "morning",
+    "short_id": "a3bc8ca770",
+    "title": "Anthropic dévoile Mythos et Fable 5.2 face à des préoccupations RSI",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-10T08:08:16+01:00",
+    "mode": "morning",
+    "short_id": "a847d13407",
+    "title": "Google Gemini routage des fichiers Drive vers des annotateurs humains",
+    "source": "Hacker News",
+    "link": "https://github.com/thisisme6598/gemini_files",
+    "importance": 4
   }
 ]
