@@ -1510,5 +1510,32 @@
     "source": "The Verge AI",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
     "importance": 4
+  },
+  {
+    "date": "2026-11-11T19:07:49+01:00",
+    "mode": "evening",
+    "short_id": "ba0fcf4e32",
+    "title": "AlphaGenome 2 : Comprendre l'impact des variantes génétiques sur les cellules",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-11T19:07:49+01:00",
+    "mode": "evening",
+    "short_id": "19b4fcb1fa",
+    "title": "BotPsy : Assistant personnel sur appareil avec un modèle léger",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-11T19:07:49+01:00",
+    "mode": "evening",
+    "short_id": "11568aa8df",
+    "title": "Formation consciente du pooling pour modèles d'embedding multi-vecteurs",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/token-pooling",
+    "importance": 4
   }
 ]
