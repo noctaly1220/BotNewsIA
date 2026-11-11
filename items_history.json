@@ -1465,5 +1465,50 @@
     "source": "Google AI Blog",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
     "importance": 4
+  },
+  {
+    "date": "2026-11-11T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "37e4452e64",
+    "title": "Cogent et OpenAI lancent des usines de défense cyber pour entreprises",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/cogent-security",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-11T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "0e9fb0eb84",
+    "title": "AlphaProof Code : avancée dans la vérification de logiciels complexes",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-11T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "f3fc54cd1d",
+    "title": "L'impact de l'IA sur le travail freelance",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-11T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "6b6709b612",
+    "title": "Gemini Robotics 2.5 améliore la dextérité des robots",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-11T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "3ec8add994",
+    "title": "ChatGPT introduit des agents commerciaux vérifiés",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "importance": 4
   }
 ]
