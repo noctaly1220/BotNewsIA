@@ -1582,5 +1582,23 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
     "importance": 4
+  },
+  {
+    "date": "2026-11-12T19:07:56+01:00",
+    "mode": "evening",
+    "short_id": "5b69826eea",
+    "title": "Lancement de Gemini 4 Hydrogen pour des workflows efficaces",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-12T19:07:56+01:00",
+    "mode": "evening",
+    "short_id": "d7c1da8cb7",
+    "title": "OpenAI investit dans la recherche sur la sécurité des enfants en IA",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/children-first-declaration",
+    "importance": 4
   }
 ]
