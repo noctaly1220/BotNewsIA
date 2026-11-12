@@ -1537,5 +1537,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/token-pooling",
     "importance": 4
+  },
+  {
+    "date": "2026-11-12T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "02bfed5e7a",
+    "title": "Lancement de l'API Gemini Decisions pour des décisions multimodales rapides",
+    "source": "Google AI Blog",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-12T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "1df6a00742",
+    "title": "United Airlines interdit aux agents IA de réserver des vols pour des raisons de sécurité",
+    "source": "Hacker News",
+    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-12T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "fd0e38b70a",
+    "title": "AWS présente un émulateur officiel pour tester ses services sans clé API payante",
+    "source": "Simon Willison",
+    "link": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-12T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "8720984841",
+    "title": "Plurai lève 13 millions $ pour améliorer la fiabilité des agents IA via des simulations",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-12T08:08:11+01:00",
+    "mode": "morning",
+    "short_id": "ae543fdc68",
+    "title": "New York impose des règles strictes aux développeurs IA avec la loi RAISE",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+    "importance": 4
   }
 ]
