@@ -1645,5 +1645,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
     "importance": 4
+  },
+  {
+    "date": "2026-11-13T19:07:54+01:00",
+    "mode": "evening",
+    "short_id": "7d4d71d056",
+    "title": "ChatGPT Wallet : achats sécurisés pour agents",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-13T19:07:54+01:00",
+    "mode": "evening",
+    "short_id": "6841e619fc",
+    "title": "llama.cpp v1.0.0 : IA locale sur divers matériels",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-13T19:07:54+01:00",
+    "mode": "evening",
+    "short_id": "96c7f67bef",
+    "title": "XYBench : évaluer les IA face aux malentendus",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "importance": 4
   }
 ]
