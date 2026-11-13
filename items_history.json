@@ -1600,5 +1600,50 @@
     "source": "OpenAI",
     "link": "https://openai.com/index/children-first-declaration",
     "importance": 4
+  },
+  {
+    "date": "2026-11-13T08:08:17+01:00",
+    "mode": "morning",
+    "short_id": "aeee01f562",
+    "title": "Lancement de Gemini 4 Hydrogen, le modèle IA à bas coût de Google",
+    "source": "Simon Willison",
+    "link": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-13T08:08:17+01:00",
+    "mode": "morning",
+    "short_id": "6f409348da",
+    "title": "Anthropic se prépare à son introduction en bourse",
+    "source": "Hacker News",
+    "link": "https://ipo.anthropic.com/us",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-13T08:08:17+01:00",
+    "mode": "morning",
+    "short_id": "67672a694e",
+    "title": "Amplitude améliore ses produits en 1-2 jours avec OpenAI",
+    "source": "OpenAI",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-13T08:08:17+01:00",
+    "mode": "morning",
+    "short_id": "cbda9238a3",
+    "title": "Guide complet pour le fine-tuning des modèles de génération 3D",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-13T08:08:17+01:00",
+    "mode": "morning",
+    "short_id": "9ccf02f312",
+    "title": "Hugging Face reste engagé pour l'IA open source après le départ de Jensen Huang",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+    "importance": 4
   }
 ]
