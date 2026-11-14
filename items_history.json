@@ -1672,5 +1672,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/allenai/xybench",
     "importance": 4
+  },
+  {
+    "date": "2026-11-14T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "754f24889e",
+    "title": "ChatGPT Wallet permet aux agents Dots d'effectuer des achats",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-14T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "be59f574f7",
+    "title": "DeepSeek flash max atteint >1% sur le benchmark SWE-sweep",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-14T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "60e5719dda",
+    "title": "Claude Code Projects gère des travailleurs AI en parallèle",
+    "source": "Hacker News",
+    "link": "https://claude.com/resources/articles/projects-redesigned",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-14T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "a3e1afb4a3",
+    "title": "Le modèle Gemini 4 Hydrogen de Google améliore la compréhension des questions",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-14T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "691d6cdbb8",
+    "title": "OpenAI dissout son équipe de robotique",
+    "source": "Hacker News",
+    "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+    "importance": 4
   }
 ]
