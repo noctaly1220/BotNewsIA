@@ -1717,5 +1717,32 @@
     "source": "Hacker News",
     "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
     "importance": 4
+  },
+  {
+    "date": "2026-11-14T19:07:53+01:00",
+    "mode": "evening",
+    "short_id": "6e165b5015",
+    "title": "LLMs ouverts prédisent les effets des modifications de poids",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-14T19:07:53+01:00",
+    "mode": "evening",
+    "short_id": "71b9e79048",
+    "title": "Lecture efficace pour agents IA : SparseRead",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-14T19:07:53+01:00",
+    "mode": "evening",
+    "short_id": "6effa66cba",
+    "title": "ARC 1.0 : un modèle pour le routage des agents IA",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents",
+    "importance": 4
   }
 ]
