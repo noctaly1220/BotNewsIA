@@ -1744,5 +1744,50 @@
     "source": "Reddit LocalLLaMA",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents",
     "importance": 4
+  },
+  {
+    "date": "2026-11-15T14:31:22+01:00",
+    "mode": "morning",
+    "short_id": "9c481a0931",
+    "title": "datasette-llm 0.1a11 : plugin pour configurer des LLMs",
+    "source": "Simon Willison",
+    "link": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-15T14:31:22+01:00",
+    "mode": "morning",
+    "short_id": "be722ecad4",
+    "title": "Nex-N2.6 : modèle multimodal pour tâches complexes",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-15T14:31:22+01:00",
+    "mode": "morning",
+    "short_id": "014d80b549",
+    "title": "Qwen3 : modèles quantifiés avec Leech lattice",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwerbo/qwen3_4b_8b_14b_at_27_bits_per_weight_with_leech",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-15T14:31:22+01:00",
+    "mode": "morning",
+    "short_id": "d040778ff9",
+    "title": "Claude AI efface des fichiers importants par erreur",
+    "source": "Hacker News",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-15T14:31:22+01:00",
+    "mode": "morning",
+    "short_id": "afe19bd014",
+    "title": "GLM-5.3 : déploiement sur deux stations Nvidia DGX",
+    "source": "Hacker News",
+    "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+    "importance": 3
   }
 ]
