@@ -1789,5 +1789,32 @@
     "source": "Hacker News",
     "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
     "importance": 3
+  },
+  {
+    "date": "2026-11-15T19:07:46+01:00",
+    "mode": "evening",
+    "short_id": "724fbc98b0",
+    "title": "Basalt 0.4.0 : Nouveaux modèles et rapidité améliorée",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-15T19:07:46+01:00",
+    "mode": "evening",
+    "short_id": "d9ea372818",
+    "title": "LongCat-Video-Avatar 1.6 : Améliorations pour la vidéo générée",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-15T19:07:46+01:00",
+    "mode": "evening",
+    "short_id": "d299fa7424",
+    "title": "Haru-4B : Dialogue continu en temps réel",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face",
+    "importance": 4
   }
 ]
