@@ -1861,5 +1861,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
     "importance": 4
+  },
+  {
+    "date": "2026-11-16T19:07:55+01:00",
+    "mode": "evening",
+    "short_id": "60f3c7381b",
+    "title": "Partenariat de 1M£ pour former des jeunes au Royaume-Uni",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/the-kings-trust-and-openai",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-16T19:07:55+01:00",
+    "mode": "evening",
+    "short_id": "21e886491b",
+    "title": "Nouveaux outils ChatGPT pour le secteur de la santé",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-16T19:07:55+01:00",
+    "mode": "evening",
+    "short_id": "2d7a5d6b20",
+    "title": "Accès élargi à l'IA pour les chercheurs",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "importance": 4
   }
 ]
