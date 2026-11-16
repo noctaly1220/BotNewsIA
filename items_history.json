@@ -1816,5 +1816,50 @@
     "source": "Reddit LocalLLaMA",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face",
     "importance": 4
+  },
+  {
+    "date": "2026-11-16T08:08:25+01:00",
+    "mode": "morning",
+    "short_id": "2e8f421d2e",
+    "title": "Une avancée vers la définition du Modèle Standard sur un réseau",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-16T08:08:25+01:00",
+    "mode": "morning",
+    "short_id": "c57d5fdb33",
+    "title": "Apple étudie l'efficacité des outils de santé AI",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-16T08:08:25+01:00",
+    "mode": "morning",
+    "short_id": "180c301438",
+    "title": "db-branch : des branches de bases de données en quelques secondes",
+    "source": "Hacker News",
+    "link": "https://github.com/db-branch/db-branch",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-16T08:08:25+01:00",
+    "mode": "morning",
+    "short_id": "9bad76f85e",
+    "title": "Un outil pour observer les LLM et leurs quantifications",
+    "source": "Reddit LocalLLaMA",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-16T08:08:25+01:00",
+    "mode": "morning",
+    "short_id": "61200927e2",
+    "title": "Bharat Semi lève 24M$ pour des capteurs d'images AI",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+    "importance": 4
   }
 ]
