@@ -1888,5 +1888,50 @@
     "source": "OpenAI",
     "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
     "importance": 4
+  },
+  {
+    "date": "2026-11-17T08:08:13+01:00",
+    "mode": "morning",
+    "short_id": "5eb97c34dc",
+    "title": "La Californie poursuit OpenAI pour des incidents de hacking par ses IA",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-17T08:08:13+01:00",
+    "mode": "morning",
+    "short_id": "d91fd06de7",
+    "title": "Comment les scientifiques utilisent ChatGPT dans la recherche",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/science-at-the-frontier",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-17T08:08:13+01:00",
+    "mode": "morning",
+    "short_id": "b82b64ef90",
+    "title": "Revolut utilise OpenAI pour améliorer ses enquêtes sur la criminalité financière",
+    "source": "OpenAI",
+    "link": "https://openai.com/business/customer-stories/revolut",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-17T08:08:13+01:00",
+    "mode": "morning",
+    "short_id": "9fe6d2ae73",
+    "title": "OpenAI commence des évaluations intégrées avec Apollo Research",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-17T08:08:13+01:00",
+    "mode": "morning",
+    "short_id": "8ec21efa2c",
+    "title": "Hugging Face et OpenRouter s'associent pour faciliter l'utilisation des modèles open-weight",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/openrouter",
+    "importance": 4
   }
 ]
