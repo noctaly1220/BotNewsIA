@@ -1933,5 +1933,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/openrouter",
     "importance": 4
+  },
+  {
+    "date": "2026-11-18T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "8f6af8c44a",
+    "title": "OpenAI dévoile GPT-6.2 Astra et Sol pour des résultats professionnels améliorés",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-18T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "3047d76577",
+    "title": "Nouveau plugin de vente dans ChatGPT pour gérer les prospects",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-18T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "b43ef08ac3",
+    "title": "Astra for Law se classe premier en intelligence juridique",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/astra-law-6-2",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-18T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "830da74434",
+    "title": "Gemini de Google : un assistant personnel amélioré",
+    "source": "Google AI Blog",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-18T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "4794d48735",
+    "title": "Isomorphic Labs lève 5 milliards $ pour la découverte de médicaments",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
+    "importance": 4
   }
 ]
