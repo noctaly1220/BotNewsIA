@@ -2050,5 +2050,32 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
     "importance": 4
+  },
+  {
+    "date": "2026-11-19T19:07:49+01:00",
+    "mode": "evening",
+    "short_id": "559b89dfb9",
+    "title": "L'IPO d'Anthropic teste le financement circulaire de l'IA",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-19T19:07:49+01:00",
+    "mode": "evening",
+    "short_id": "0191a8cf50",
+    "title": "L'application Gemini disponible sur Android à faible mémoire",
+    "source": "Google AI Blog",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-19T19:07:49+01:00",
+    "mode": "evening",
+    "short_id": "ca9ca0837d",
+    "title": "Genie 4 de Google DeepMind est maintenant disponible",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/genie-4-is-now-available",
+    "importance": 4
   }
 ]
