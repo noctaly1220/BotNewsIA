@@ -2122,5 +2122,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
     "importance": 4
+  },
+  {
+    "date": "2026-11-20T19:08:01+01:00",
+    "mode": "evening",
+    "short_id": "fd109fdc36",
+    "title": "Anthropic clôt son IPO avec 1,127 milliard d'actions à 83 $ chacune",
+    "source": "Anthropic",
+    "link": "https://www.anthropic.com/news/ipo-close",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-20T19:08:01+01:00",
+    "mode": "evening",
+    "short_id": "701a571706",
+    "title": "Hugging Face lance des adaptateurs pour améliorer les performances des modèles",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-20T19:08:01+01:00",
+    "mode": "evening",
+    "short_id": "675650dffc",
+    "title": "Un mathématicien d'Anthropic prétend avoir résolu l'hypothèse de Riemann avec Claude",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "importance": 4
   }
 ]
