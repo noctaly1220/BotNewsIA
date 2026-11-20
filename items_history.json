@@ -2077,5 +2077,50 @@
     "source": "Google DeepMind",
     "link": "https://deepmind.google/blog/genie-4-is-now-available",
     "importance": 4
+  },
+  {
+    "date": "2026-11-20T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "ad84405834",
+    "title": "Anthropic lève 81,3 milliards de dollars lors de son IPO, fondateurs encaissent 2 milliards",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-20T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "056cf0b58a",
+    "title": "Google lance Tool Retrieval dans l'API Gemini pour optimiser la gestion des outils",
+    "source": "Google AI Blog",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-20T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "5fe21d2b4e",
+    "title": "Claude résout deux problèmes ouverts en physique des trous noirs, avancée en gravité quantique",
+    "source": "Hacker News",
+    "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-20T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "9f19183b29",
+    "title": "ChatGPT introduit la dictée en direct pour transcrire l'audio en temps réel",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-20T08:07:57+01:00",
+    "mode": "morning",
+    "short_id": "62649bf472",
+    "title": "Google permet à Gemini d'effectuer des tâches sur Mac, améliorant l'automatisation",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+    "importance": 4
   }
 ]
