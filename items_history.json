@@ -2194,5 +2194,32 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
     "importance": 4
+  },
+  {
+    "date": "2026-11-21T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "3298713995",
+    "title": "L'IPO d'Anthropic : sécurité vs profit",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-21T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "266efb82a5",
+    "title": "Signal protège la vie privée contre les agents IA",
+    "source": "Hacker News",
+    "link": "https://signal.org/blog/protecting-your-privacy",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-21T19:07:52+01:00",
+    "mode": "evening",
+    "short_id": "0217300bae",
+    "title": "Des employés de Google s'opposent aux sanctions scolaires sur l'IA",
+    "source": "Hacker News",
+    "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+    "importance": 4
   }
 ]
