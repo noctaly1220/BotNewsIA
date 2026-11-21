@@ -2149,5 +2149,50 @@
     "source": "The Verge AI",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
     "importance": 4
+  },
+  {
+    "date": "2026-11-21T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "7ad44f990f",
+    "title": "OpenAI renforce la sécurité contre la distillation adversariale",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-21T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "c1a2af93db",
+    "title": "MedChemBench évalue l'efficacité des modèles IA en chimie médicinale",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/introducing-medchembench",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-21T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "824c03b970",
+    "title": "Inkling 2 Mini, un modèle local performant, est lancé",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/inkling2mini",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-21T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "861ca51b04",
+    "title": "Le mathématicien Levent Alpöge revendique une solution à l'hypothèse de Riemann",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-21T08:07:55+01:00",
+    "mode": "morning",
+    "short_id": "694eda7767",
+    "title": "L'IPO d'Anthropic pourrait générer 156 milliards de dollars pour des œuvres caritatives",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
+    "importance": 4
   }
 ]
