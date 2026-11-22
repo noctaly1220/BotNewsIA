@@ -2221,5 +2221,50 @@
     "source": "Hacker News",
     "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
     "importance": 4
+  },
+  {
+    "date": "2026-11-22T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "06d2d06f2b",
+    "title": "Pandex : API pour lois européennes et décisions judiciaires",
+    "source": "Hacker News",
+    "link": "https://www.pandex.io/",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-22T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "aaa55aaf59",
+    "title": "Muru : serveur Rust pour applications Python avec AI",
+    "source": "Simon Willison",
+    "link": "https://simonwillison.net/2026/Nov/21/muru",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-22T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "f6f5282ad9",
+    "title": "Signal restreint les captures d'écran face à l'IA",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-22T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "f52216bdae",
+    "title": "Les agents AI dans vos messages : nouvelles options",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-22T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "98001fcd04",
+    "title": "Daniel Ek soutient une startup de fusion nucléaire",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+    "importance": 3
   }
 ]
