@@ -2266,5 +2266,23 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
     "importance": 3
+  },
+  {
+    "date": "2026-11-22T19:07:42+01:00",
+    "mode": "evening",
+    "short_id": "1a10f1676d",
+    "title": "OpenAI établit la perplexité comme métrique clé pour l'IA",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-22T19:07:42+01:00",
+    "mode": "evening",
+    "short_id": "48435cfc74",
+    "title": "Biais de genre dans les LLMs : étude sur le cadre moral",
+    "source": "Hacker News",
+    "link": "https://arxiv.org/abs/2606.14068",
+    "importance": 4
   }
 ]
