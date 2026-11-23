@@ -2311,5 +2311,32 @@
     "source": "Hacker News",
     "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
     "importance": 3
+  },
+  {
+    "date": "2026-11-23T18:31:31+01:00",
+    "mode": "evening",
+    "short_id": "fc32915cc4",
+    "title": "Amazon achète Decart pour 7,5 milliards $ pour optimiser ses puces",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-23T18:31:31+01:00",
+    "mode": "evening",
+    "short_id": "895b540db6",
+    "title": "DeepMind améliore les algorithmes quantiques avec des agents",
+    "source": "Google DeepMind",
+    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-23T18:31:31+01:00",
+    "mode": "evening",
+    "short_id": "eb2701ff66",
+    "title": "Hugging Face lance RoboTrack pour le suivi de points en robotique",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/allenai/robotrack",
+    "importance": 4
   }
 ]
