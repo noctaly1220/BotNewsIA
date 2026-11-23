@@ -2284,5 +2284,32 @@
     "source": "Hacker News",
     "link": "https://arxiv.org/abs/2606.14068",
     "importance": 4
+  },
+  {
+    "date": "2026-11-23T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "50eaee9a34",
+    "title": "Investissements massifs dans Anthropic avant son IPO",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-23T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "883b69d3f9",
+    "title": "OpenAI propose des limites au développement de l'IA",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-23T08:07:54+01:00",
+    "mode": "morning",
+    "short_id": "d7e78f94bc",
+    "title": "Anthropic et sa dépendance aux combustibles fossiles en 2028",
+    "source": "Hacker News",
+    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+    "importance": 3
   }
 ]
