@@ -2338,5 +2338,50 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/allenai/robotrack",
     "importance": 4
+  },
+  {
+    "date": "2026-11-24T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "b0689cf87a",
+    "title": "OpenAI et Cisco lancent Shirudo pour protéger les systèmes Linux",
+    "source": "OpenAI",
+    "link": "https://openai.com/index/introducing-shirudo",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-24T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "5e2478fb75",
+    "title": "Claude Ship d'Anthropic automatise les revues et approbations de code",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-24T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "876aad68c9",
+    "title": "Supertake lève 20M$ pour transformer des idées en portefeuilles d'investissement",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-24T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "1259b53468",
+    "title": "Richpanel automatise 50% du support client en 30 jours",
+    "source": "OpenAI",
+    "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-24T08:08:00+01:00",
+    "mode": "morning",
+    "short_id": "00d52199be",
+    "title": "Hugging Face explique comment construire une évaluation agentique",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/agentic-evals",
+    "importance": 3
   }
 ]
