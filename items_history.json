@@ -2383,5 +2383,32 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/agentic-evals",
     "importance": 3
+  },
+  {
+    "date": "2026-11-24T18:03:14+01:00",
+    "mode": "evening",
+    "short_id": "a4cb5a65f0",
+    "title": "Amazon acquiert Decart pour rivaliser avec Nvidia dans les puces IA",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+    "importance": 5
+  },
+  {
+    "date": "2026-11-24T18:03:14+01:00",
+    "mode": "evening",
+    "short_id": "a7a0adf7d6",
+    "title": "Google Gemini, nouvel assistant AI des Golden State Warriors",
+    "source": "Google AI Blog",
+    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-24T18:03:14+01:00",
+    "mode": "evening",
+    "short_id": "105d2dd6f5",
+    "title": "GLM-5.4 : un transformateur en boucle pour le codage généralisé",
+    "source": "Simon Willison",
+    "link": "https://simonwillison.net/2026/Nov/23/glm-54",
+    "importance": 4
   }
 ]
