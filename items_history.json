@@ -2455,5 +2455,32 @@
     "source": "OpenAI",
     "link": "https://openai.com/business/customer-stories/ifood",
     "importance": 3
+  },
+  {
+    "date": "2026-11-25T17:53:04+01:00",
+    "mode": "evening",
+    "short_id": "0077e07924",
+    "title": "CUGA : un agent vocal multilingue pour l'agriculture",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-25T17:53:04+01:00",
+    "mode": "evening",
+    "short_id": "551b41b556",
+    "title": "Difficultés croissantes pour construire des centres de données AI",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-25T17:53:04+01:00",
+    "mode": "evening",
+    "short_id": "977f9f016c",
+    "title": "Maple lève 5,3 millions $ pour un AI respectueux de la vie privée",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+    "importance": 4
   }
 ]
