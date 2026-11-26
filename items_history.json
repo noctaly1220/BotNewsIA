@@ -2482,5 +2482,50 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
     "importance": 4
+  },
+  {
+    "date": "2026-11-26T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "3d2697b636",
+    "title": "NVIDIA Nemotron 3.5 Parse : données ouvertes et inférence rapide",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-26T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "df3be113c8",
+    "title": "Inkling 2 Mini : performances optimisées sur RTX PRO 6000",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-26T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "628d3c5129",
+    "title": "Character.ai : vente de données utilisateurs contestée par des AG",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-26T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "17929128d1",
+    "title": "FCC approuve le projet de satellites AI de SpaceX",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-26T08:07:58+01:00",
+    "mode": "morning",
+    "short_id": "88bd06d7e0",
+    "title": "Les scientifiques et les limites des agents AI",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "importance": 3
   }
 ]
