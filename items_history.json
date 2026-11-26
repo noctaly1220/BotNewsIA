@@ -2527,5 +2527,32 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
     "importance": 3
+  },
+  {
+    "date": "2026-11-26T17:30:44+01:00",
+    "mode": "evening",
+    "short_id": "a734da9d3a",
+    "title": "Nouveau tableau de bord de benchmark llama.cpp pour AMD Ryzen et Radeon",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-26T17:30:44+01:00",
+    "mode": "evening",
+    "short_id": "1572d1e1c1",
+    "title": "OpenAI ajuste l'utilisation de GPT-6.2, limites atteintes plus rapidement",
+    "source": "Hacker News",
+    "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-26T17:30:44+01:00",
+    "mode": "evening",
+    "short_id": "9a36b64e1e",
+    "title": "Google impose l'utilisation de serveurs MCP pour les agents IA",
+    "source": "Hacker News",
+    "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+    "importance": 4
   }
 ]
