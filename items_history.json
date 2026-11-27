@@ -2599,5 +2599,14 @@
     "source": "TechCrunch AI",
     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
     "importance": 3
+  },
+  {
+    "date": "2026-11-27T17:15:51+01:00",
+    "mode": "evening",
+    "short_id": "c2bd795310",
+    "title": "Génération de vidéos avec Trainium3 et LTX-2.5",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/video-trainium3",
+    "importance": 4
   }
 ]
