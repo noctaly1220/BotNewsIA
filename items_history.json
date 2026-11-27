@@ -2554,5 +2554,50 @@
     "source": "Hacker News",
     "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
     "importance": 4
+  },
+  {
+    "date": "2026-11-27T08:08:01+01:00",
+    "mode": "morning",
+    "short_id": "305e62040e",
+    "title": "Des agents IA contrôlent des expériences pour le modèle Gemini de DeepMind",
+    "source": "Hacker News",
+    "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-27T08:08:01+01:00",
+    "mode": "morning",
+    "short_id": "e51b021662",
+    "title": "42 États s'opposent à la vente des chats utilisateurs par Character.AI",
+    "source": "The Verge AI",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-27T08:08:01+01:00",
+    "mode": "morning",
+    "short_id": "819f2bb8e3",
+    "title": "Construire et évaluer des systèmes multi-agents : Guide pratique",
+    "source": "Hugging Face Blog",
+    "link": "https://huggingface.co/blog/training-swarms",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-27T08:08:01+01:00",
+    "mode": "morning",
+    "short_id": "3a73412d0d",
+    "title": "OpenAI fusionne Chat et Work, des limites d'utilisation possibles",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+    "importance": 3
+  },
+  {
+    "date": "2026-11-27T08:08:01+01:00",
+    "mode": "morning",
+    "short_id": "33b3d08d99",
+    "title": "Nvidia suspend les expéditions de serveurs vers l'Asie du Sud-Est",
+    "source": "TechCrunch AI",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+    "importance": 3
   }
 ]
