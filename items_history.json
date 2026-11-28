@@ -2608,5 +2608,23 @@
     "source": "Hugging Face Blog",
     "link": "https://huggingface.co/blog/video-trainium3",
     "importance": 4
+  },
+  {
+    "date": "2026-11-28T08:07:46+01:00",
+    "mode": "morning",
+    "short_id": "9e4ae7f8dc",
+    "title": "datasette-charts 0.4a0 : un plugin pour des graphiques plus ergonomiques",
+    "source": "Simon Willison",
+    "link": "https://simonwillison.net/2026/Nov/27/datasette-charts",
+    "importance": 4
+  },
+  {
+    "date": "2026-11-28T08:07:46+01:00",
+    "mode": "morning",
+    "short_id": "b7f18d41d5",
+    "title": "SessionGraph : visualisez vos sessions de codage dans un graphique interactif",
+    "source": "Hacker News",
+    "link": "https://sessiongraph.ai/",
+    "importance": 4
   }
 ]
